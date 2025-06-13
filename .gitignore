@@ -1,0 +1,13 @@
+certs/*
+
+.vscode/*
+
+.env
+
+.DS_Store
+
+.venv/*
+
+.env.local
+
+**__pycache__**
