@@ -11,3 +11,7 @@ certs/*
 .env.local
 
 **__pycache__**
+
+*.json
+
+test.py
